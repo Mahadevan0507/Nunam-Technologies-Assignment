@@ -1,6 +1,6 @@
 # Nunam-Technoogies-Assignment
 
-This project is a Streamlit application that visualizes battery metrics for two cell IDs (5308 and 5329) using Plotly charts. The application reads data from CSV files, creates pie charts for the state of health of the batteries, and displays line plots for various metrics over time.
+This project is a Streamlit application that visualizes battery metrics for two cell IDs (5308 and 5329) using Plotly charts. The application reads data from xls files, creates pie charts for the state of health of the batteries, and displays line plots for various metrics over time.
 
 ## Features
 
